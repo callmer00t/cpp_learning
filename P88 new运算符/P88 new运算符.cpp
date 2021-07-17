@@ -36,6 +36,7 @@ void test2() //在堆区利用new开辟数组
 
 	//释放堆区的数组
 	delete[] arr; //释放数组使用中括号
+}
 
 int main()
 {
