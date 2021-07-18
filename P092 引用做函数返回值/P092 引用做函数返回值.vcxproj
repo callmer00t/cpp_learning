@@ -24,6 +24,7 @@
     <ProjectGuid>{415cd1e1-7607-4f72-a00d-1a2be6da0e83}</ProjectGuid>
     <RootNamespace>P92引用做函数返回值</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>P092 引用做函数返回值</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="P92 引用做函数返回值.cpp" />
+    <ClCompile Include="P092 引用做函数返回值.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
