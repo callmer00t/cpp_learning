@@ -21,9 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a1aaa4f3-e422-44cc-bffa-13f36f4d1406}</ProjectGuid>
-    <RootNamespace>P93引用的本质</RootNamespace>
+    <ProjectGuid>{9c1bfeb7-2e61-43b1-bd66-43b75cede7fb}</ProjectGuid>
+    <RootNamespace>P99封装属性和行为作为整体</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>P099 封装-属性和行为作为整体</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="P93 引用的本质.cpp" />
+    <ClCompile Include="P099 封装-属性和行为作为整体.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
