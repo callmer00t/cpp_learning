@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="P85 内存四区-全局区.cpp">
+    <ClCompile Include="P072-P083 通讯录管理系统.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

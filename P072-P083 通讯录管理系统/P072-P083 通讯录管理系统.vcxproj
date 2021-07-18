@@ -21,9 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{46de294c-3308-4d65-8cae-71e3cebec729}</ProjectGuid>
-    <RootNamespace>P85内存四区全局区</RootNamespace>
+    <ProjectGuid>{7654709d-6aaf-4708-a831-441e5da7917b}</ProjectGuid>
+    <RootNamespace>P72P83通讯录管理系统</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>P072-P083 通讯录管理系统</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="P85 内存四区-全局区.cpp" />
+    <ClCompile Include="P072-P083 通讯录管理系统.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
