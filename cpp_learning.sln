@@ -117,6 +117,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P141 多态-案例-电脑�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P143 文件操作-文本文件-写文件", "P143 文件操作-文本文件-写文件\P143 文件操作-文本文件-写文件.vcxproj", "{64508FD4-7328-460C-B98F-2069E39D10DB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P144 文件操作-文本文件-读文件", "P144 文件操作-文本文件-读文件\P144 文件操作-文本文件-读文件.vcxproj", "{E4F924AF-6759-476A-B684-FAEBDF268211}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P145 文件操作-二进制文件-写文件", "P145 文件操作-二进制文件-写文件\P145 文件操作-二进制文件-写文件.vcxproj", "{240C5860-7B13-44A1-BFBB-146C0896469E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P146 文件操作-二进制文件-读文件", "P146 文件操作-二进制文件-读文件\P146 文件操作-二进制文件-读文件.vcxproj", "{FA019067-B702-4A74-80B6-D53EAA303867}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P147-P166 职工管理系统", "P147-P166 职工管理系统\P147-P166 职工管理系统.vcxproj", "{B694B805-75FC-4A59-9E34-4BB82E31ACED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -581,6 +589,38 @@ Global
 		{64508FD4-7328-460C-B98F-2069E39D10DB}.Release|x64.Build.0 = Release|x64
 		{64508FD4-7328-460C-B98F-2069E39D10DB}.Release|x86.ActiveCfg = Release|Win32
 		{64508FD4-7328-460C-B98F-2069E39D10DB}.Release|x86.Build.0 = Release|Win32
+		{E4F924AF-6759-476A-B684-FAEBDF268211}.Debug|x64.ActiveCfg = Debug|x64
+		{E4F924AF-6759-476A-B684-FAEBDF268211}.Debug|x64.Build.0 = Debug|x64
+		{E4F924AF-6759-476A-B684-FAEBDF268211}.Debug|x86.ActiveCfg = Debug|Win32
+		{E4F924AF-6759-476A-B684-FAEBDF268211}.Debug|x86.Build.0 = Debug|Win32
+		{E4F924AF-6759-476A-B684-FAEBDF268211}.Release|x64.ActiveCfg = Release|x64
+		{E4F924AF-6759-476A-B684-FAEBDF268211}.Release|x64.Build.0 = Release|x64
+		{E4F924AF-6759-476A-B684-FAEBDF268211}.Release|x86.ActiveCfg = Release|Win32
+		{E4F924AF-6759-476A-B684-FAEBDF268211}.Release|x86.Build.0 = Release|Win32
+		{240C5860-7B13-44A1-BFBB-146C0896469E}.Debug|x64.ActiveCfg = Debug|x64
+		{240C5860-7B13-44A1-BFBB-146C0896469E}.Debug|x64.Build.0 = Debug|x64
+		{240C5860-7B13-44A1-BFBB-146C0896469E}.Debug|x86.ActiveCfg = Debug|Win32
+		{240C5860-7B13-44A1-BFBB-146C0896469E}.Debug|x86.Build.0 = Debug|Win32
+		{240C5860-7B13-44A1-BFBB-146C0896469E}.Release|x64.ActiveCfg = Release|x64
+		{240C5860-7B13-44A1-BFBB-146C0896469E}.Release|x64.Build.0 = Release|x64
+		{240C5860-7B13-44A1-BFBB-146C0896469E}.Release|x86.ActiveCfg = Release|Win32
+		{240C5860-7B13-44A1-BFBB-146C0896469E}.Release|x86.Build.0 = Release|Win32
+		{FA019067-B702-4A74-80B6-D53EAA303867}.Debug|x64.ActiveCfg = Debug|x64
+		{FA019067-B702-4A74-80B6-D53EAA303867}.Debug|x64.Build.0 = Debug|x64
+		{FA019067-B702-4A74-80B6-D53EAA303867}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA019067-B702-4A74-80B6-D53EAA303867}.Debug|x86.Build.0 = Debug|Win32
+		{FA019067-B702-4A74-80B6-D53EAA303867}.Release|x64.ActiveCfg = Release|x64
+		{FA019067-B702-4A74-80B6-D53EAA303867}.Release|x64.Build.0 = Release|x64
+		{FA019067-B702-4A74-80B6-D53EAA303867}.Release|x86.ActiveCfg = Release|Win32
+		{FA019067-B702-4A74-80B6-D53EAA303867}.Release|x86.Build.0 = Release|Win32
+		{B694B805-75FC-4A59-9E34-4BB82E31ACED}.Debug|x64.ActiveCfg = Debug|x64
+		{B694B805-75FC-4A59-9E34-4BB82E31ACED}.Debug|x64.Build.0 = Debug|x64
+		{B694B805-75FC-4A59-9E34-4BB82E31ACED}.Debug|x86.ActiveCfg = Debug|Win32
+		{B694B805-75FC-4A59-9E34-4BB82E31ACED}.Debug|x86.Build.0 = Debug|Win32
+		{B694B805-75FC-4A59-9E34-4BB82E31ACED}.Release|x64.ActiveCfg = Release|x64
+		{B694B805-75FC-4A59-9E34-4BB82E31ACED}.Release|x64.Build.0 = Release|x64
+		{B694B805-75FC-4A59-9E34-4BB82E31ACED}.Release|x86.ActiveCfg = Release|Win32
+		{B694B805-75FC-4A59-9E34-4BB82E31ACED}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
