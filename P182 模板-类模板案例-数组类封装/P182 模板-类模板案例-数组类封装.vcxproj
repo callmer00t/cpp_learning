@@ -24,6 +24,7 @@
     <ProjectGuid>{18101063-244c-4334-8ee5-ad4c8b4496f7}</ProjectGuid>
     <RootNamespace>P182模板类模板案例数组类封装</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>P182-P184 模板-类模板案例-数组类封装</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="P182 模板-类模板案例-数组类封装.cpp">
+    <ClCompile Include="P182-P184 模板-类模板案例-数组类封装.cpp">
       <SubType>
       </SubType>
     </ClCompile>

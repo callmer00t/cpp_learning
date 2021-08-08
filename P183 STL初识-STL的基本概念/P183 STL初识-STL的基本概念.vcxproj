@@ -24,7 +24,7 @@
     <ProjectGuid>{f12d07c1-62e5-43c6-8573-ffd4fdbcc859}</ProjectGuid>
     <RootNamespace>P183STL初识STL的基本概念</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>P184 STL初识-vector存放内置数据类型</ProjectName>
+    <ProjectName>P186 STL初识-vector存放内置数据类型</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="P184 STL初识-vector存放内置数据类型.cpp">
+    <ClCompile Include="P186 STL初识-vector存放内置数据类型.cpp">
       <SubType>
       </SubType>
     </ClCompile>

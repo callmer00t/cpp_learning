@@ -153,15 +153,15 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P180 模板-类模板分文
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P181 模板-类模板与友元", "P181 模板-类模板与友元\P181 模板-类模板与友元.vcxproj", "{515ABD1F-C705-408F-B331-743A60C202DC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P182 模板-类模板案例-数组类封装", "P182 模板-类模板案例-数组类封装\P182 模板-类模板案例-数组类封装.vcxproj", "{18101063-244C-4334-8EE5-AD4C8B4496F7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P182-P184 模板-类模板案例-数组类封装", "P182 模板-类模板案例-数组类封装\P182 模板-类模板案例-数组类封装.vcxproj", "{18101063-244C-4334-8EE5-AD4C8B4496F7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P184 STL初识-vector存放内置数据类型", "P183 STL初识-STL的基本概念\P183 STL初识-STL的基本概念.vcxproj", "{F12D07C1-62E5-43C6-8573-FFD4FDBCC859}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P186 STL初识-vector存放内置数据类型", "P183 STL初识-STL的基本概念\P183 STL初识-STL的基本概念.vcxproj", "{F12D07C1-62E5-43C6-8573-FFD4FDBCC859}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P185 STL初识-vector存放自定义数据类型", "P185 STL初识-vector存放自定义数据类型\P185 STL初识-vector存放自定义数据类型.vcxproj", "{D2E108DE-5928-451A-B1E3-77F88913E887}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P187 STL初识-vector存放自定义数据类型", "P185 STL初识-vector存放自定义数据类型\P185 STL初识-vector存放自定义数据类型.vcxproj", "{D2E108DE-5928-451A-B1E3-77F88913E887}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P186 STL初识-容器嵌套容器", "P186 STL初识-容器嵌套容器\P186 STL初识-容器嵌套容器.vcxproj", "{67FA99EB-398E-4BA5-AFB6-5DA4669CD329}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P188 STL初识-容器嵌套容器", "P186 STL初识-容器嵌套容器\P186 STL初识-容器嵌套容器.vcxproj", "{67FA99EB-398E-4BA5-AFB6-5DA4669CD329}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P187 string容器-构造函数", "P187 string容器-构造函数\P187 string容器-构造函数.vcxproj", "{5AAC2E98-B1CD-42C3-9133-0985BF890CCE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P189 string容器-构造函数", "P187 string容器-构造函数\P187 string容器-构造函数.vcxproj", "{5AAC2E98-B1CD-42C3-9133-0985BF890CCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="P182 模板-类模板案例-数组类封装.cpp">
+    <ClCompile Include="P182-P184 模板-类模板案例-数组类封装.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

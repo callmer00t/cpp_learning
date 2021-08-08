@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="P185 STL初识-vector存放自定义数据类型.cpp">
+    <ClCompile Include="P187 STL初识-vector存放自定义数据类型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
