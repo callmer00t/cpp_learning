@@ -193,6 +193,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P202 vector容器-互换容
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P203 vector容器-预留空间", "P203 vector容器-预留空间\P203 vector容器-预留空间.vcxproj", "{618B7E8A-3B37-43F2-95E4-7AB417B2E4C1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P113 对象特性-静态成员-静态成员变量", "P113 对象特性-静态成员-静态成员变量\P113 对象特性-静态成员-静态成员变量.vcxproj", "{DA263C25-D5F3-4EAB-8774-4FF35A300B6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -961,6 +963,14 @@ Global
 		{618B7E8A-3B37-43F2-95E4-7AB417B2E4C1}.Release|x64.Build.0 = Release|x64
 		{618B7E8A-3B37-43F2-95E4-7AB417B2E4C1}.Release|x86.ActiveCfg = Release|Win32
 		{618B7E8A-3B37-43F2-95E4-7AB417B2E4C1}.Release|x86.Build.0 = Release|Win32
+		{DA263C25-D5F3-4EAB-8774-4FF35A300B6F}.Debug|x64.ActiveCfg = Debug|x64
+		{DA263C25-D5F3-4EAB-8774-4FF35A300B6F}.Debug|x64.Build.0 = Debug|x64
+		{DA263C25-D5F3-4EAB-8774-4FF35A300B6F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA263C25-D5F3-4EAB-8774-4FF35A300B6F}.Debug|x86.Build.0 = Debug|Win32
+		{DA263C25-D5F3-4EAB-8774-4FF35A300B6F}.Release|x64.ActiveCfg = Release|x64
+		{DA263C25-D5F3-4EAB-8774-4FF35A300B6F}.Release|x64.Build.0 = Release|x64
+		{DA263C25-D5F3-4EAB-8774-4FF35A300B6F}.Release|x86.ActiveCfg = Release|Win32
+		{DA263C25-D5F3-4EAB-8774-4FF35A300B6F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
